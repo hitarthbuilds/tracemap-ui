@@ -17,5 +17,3 @@ st.markdown(
     - variable mutations
     """
 )
-
-st.page_link("pages/3_Color_Palette.py", label="Explore the color palette")
